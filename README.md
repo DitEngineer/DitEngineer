@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @DitEngineer
+- 👋 Hi, I’m Danijel
 - 👀 I’m interested in all kinds of sports and front-end developing
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me:
-📧 danijelitengineer@gmail.com OR
-🌐IG ditengineer
+  📧 danijelitengineer@gmail.com OR
+  @ditengineer
   
 
 <!---
