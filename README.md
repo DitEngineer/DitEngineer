@@ -1,9 +1,5 @@
-- 👋 Hi, I’m Danijel
-- 👀 I’m interested in all kinds of sports and front-end developing
-- 🌱 I’m currently learning JavaScript
-- 📫 How to reach me:
-  📧 danijelitengineer@gmail.com OR
-  @ditengineer
+SvelteKit Developer
+Based in Maribor, Slovenia
   
 
 <!---
