@@ -1,5 +1,5 @@
-SvelteKit Developer
-Based in Maribor, Slovenia
+- SvelteKit Developer
+- Based in Maribor, Slovenia
   
 
 <!---
